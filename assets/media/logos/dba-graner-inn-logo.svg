@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 150" role="img" aria-labelledby="title desc">
   <title id="title">PRABHUBOLE logo</title>
-  <desc id="desc">Premium PB monogram with PRABHUBOLE name and DBA Garner Inn caption.</desc>
+  <desc id="desc">Premium PB monogram with PRABHUBOLE name and DBA - Garner Inn caption.</desc>
   <defs>
     <linearGradient id="monogramGradient" x1="22" y1="22" x2="146" y2="132" gradientUnits="userSpaceOnUse">
       <stop offset="0" stop-color="#081821"/>
@@ -23,6 +23,6 @@
   <g>
     <text x="190" y="64" font-family="Georgia, 'Times New Roman', serif" font-size="34" font-weight="700" fill="#081821">PRABHUBOLE</text>
     <rect x="192" y="78" width="82" height="3" rx="1.5" fill="url(#goldGradient)"/>
-    <text x="190" y="108" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="900" letter-spacing="0.8" fill="#0a4550">DBA Garner Inn</text>
+    <text x="190" y="108" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="900" letter-spacing="0.8" fill="#0a4550">DBA - Garner Inn</text>
   </g>
 </svg>
