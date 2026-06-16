@@ -1,0 +1,113 @@
+const siteData = {
+  aboutFeatures: [
+    "Professional hospitality operations with clear guest service standards",
+    "Comfortable accommodations, practical facilities, and responsive support",
+    "Local business presence with location details and service information easy to review",
+  ],
+  aboutPanels: [
+    {
+      heading: "Mission",
+      text: "Provide dependable hospitality services with clean accommodations, helpful facilities, and attentive guest care.",
+    },
+    {
+      heading: "Vision",
+      text: "Build PRABHUBOLE into a trusted hospitality name known for comfort, clarity, and professional service.",
+    },
+    {
+      heading: "Values",
+      text: "Cleanliness, respect, reliability, safety, service quality, and transparent communication guide daily operations.",
+    },
+  ],
+  services: [
+    {
+      category: "Property Operations",
+      metric: "Operational control",
+      icon: "hospitality.svg",
+      title: "Property Management Solutions",
+      description: "Structured support for daily property operations, room status, service coordination, and hospitality business oversight.",
+    },
+    {
+      category: "Booking Operations",
+      metric: "Reservation flow",
+      icon: "strategy.svg",
+      title: "Reservation & Booking Management",
+      description: "Organized reservation handling, booking updates, stay schedules, and guest arrival coordination.",
+    },
+    {
+      category: "Guest Operations",
+      metric: "Guest records",
+      icon: "support.svg",
+      title: "Guest Information Management",
+      description: "Clear handling of guest details, stay preferences, service notes, and front-office reference information.",
+    },
+    {
+      category: "Digital Access",
+      metric: "Online inquiries",
+      icon: "strategy.svg",
+      title: "Online Booking Integration",
+      description: "Support for online booking workflows, inquiry routing, availability communication, and direct guest engagement.",
+    },
+    {
+      category: "Infrastructure",
+      metric: "Connectivity",
+      icon: "cloud.svg",
+      title: "Wi-Fi & Network Infrastructure Management",
+      description: "Operational oversight for guest connectivity, internal network readiness, access reliability, and issue coordination.",
+    },
+    {
+      category: "Security",
+      metric: "Facility monitoring",
+      icon: "support.svg",
+      title: "CCTV & Security Monitoring",
+      description: "Monitoring support for public areas, safety visibility, incident awareness, and security follow-up.",
+    },
+    {
+      category: "Security",
+      metric: "Controlled access",
+      icon: "support.svg",
+      title: "Access Control Systems",
+      description: "Support for controlled entry, staff access workflows, guest-area permissions, and operational safety procedures.",
+    },
+    {
+      category: "Data Operations",
+      metric: "Business continuity",
+      icon: "cloud.svg",
+      title: "Cloud Data Management & Backups",
+      description: "Organized data handling, secure backup routines, recovery readiness, and continuity-focused information management.",
+    },
+    {
+      category: "Front Desk",
+      metric: "Guest reception",
+      icon: "hospitality.svg",
+      title: "Front Desk Operations Support",
+      description: "Support for check-in, check-out, guest requests, daily desk coordination, and service communication.",
+    },
+    {
+      category: "Housekeeping",
+      metric: "Room readiness",
+      icon: "hospitality.svg",
+      title: "Housekeeping Coordination",
+      description: "Coordination of cleaning schedules, room readiness updates, service requests, and housekeeping communication.",
+    },
+    {
+      category: "Maintenance",
+      metric: "Facility care",
+      icon: "strategy.svg",
+      title: "Maintenance Management",
+      description: "Tracking and coordination for repairs, preventive tasks, facility issues, and maintenance follow-up.",
+    },
+    {
+      category: "Finance",
+      metric: "Business visibility",
+      icon: "analytics.svg",
+      title: "Financial Reporting & Accounting Support",
+      description: "Operational reporting support for revenue review, expense visibility, reconciliations, and accounting coordination.",
+    },
+  ],
+  cta: {
+    eyebrow: "Plan your stay",
+    headline: "Contact PRABHUBOLE to review accommodations, facilities, location details, and hospitality services.",
+    buttonText: "Contact us",
+    buttonHref: "contact.html",
+  },
+};

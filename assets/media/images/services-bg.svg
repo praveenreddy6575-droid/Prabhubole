@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 900" role="img" aria-labelledby="title desc">
+  <title id="title">Services hero background</title>
+  <desc id="desc">Service workflow cards and connected systems pattern for Prabhubole services.</desc>
+  <rect width="1440" height="900" fill="#102a43"/>
+  <rect x="220" y="230" width="260" height="150" rx="28" fill="#ffffff" opacity="0.18"/>
+  <rect x="590" y="230" width="260" height="150" rx="28" fill="#ffffff" opacity="0.18"/>
+  <rect x="960" y="230" width="260" height="150" rx="28" fill="#ffffff" opacity="0.18"/>
+  <path d="M480 305h110M850 305h110" stroke="#c78a2c" stroke-width="14" stroke-linecap="round" opacity="0.8"/>
+  <path d="M280 510h880M280 590h610" stroke="#ffffff" stroke-width="16" stroke-linecap="round" opacity="0.22"/>
+  <circle cx="350" cy="305" r="34" fill="#147f78" opacity="0.72"/>
+  <circle cx="720" cy="305" r="34" fill="#c78a2c" opacity="0.72"/>
+  <circle cx="1090" cy="305" r="34" fill="#147f78" opacity="0.72"/>
+</svg>

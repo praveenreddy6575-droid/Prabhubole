@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" role="img" aria-labelledby="title desc">
+  <title id="title">PRABHUBOLE favicon</title>
+  <desc id="desc">PB monogram for PRABHUBOLE.</desc>
+  <defs>
+    <linearGradient id="monogramGradient" x1="18" y1="18" x2="142" y2="142" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#081821"/>
+      <stop offset="0.62" stop-color="#0f5f68"/>
+      <stop offset="1" stop-color="#132f3c"/>
+    </linearGradient>
+    <linearGradient id="goldGradient" x1="28" y1="28" x2="132" y2="132" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f2d18a"/>
+      <stop offset="1" stop-color="#c9a15d"/>
+    </linearGradient>
+  </defs>
+  <rect width="160" height="160" rx="34" fill="#ffffff"/>
+  <rect x="18" y="18" width="124" height="124" rx="30" fill="url(#monogramGradient)"/>
+  <text x="68" y="98" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="58" font-weight="800" fill="#ffffff">P</text>
+  <text x="104" y="98" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="58" font-weight="800" fill="url(#goldGradient)">B</text>
+</svg>

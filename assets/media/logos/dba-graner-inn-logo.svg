@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 150" role="img" aria-labelledby="title desc">
+  <title id="title">PRABHUBOLE logo</title>
+  <desc id="desc">Premium PB monogram with PRABHUBOLE name and DBA Graner Inn caption.</desc>
+  <defs>
+    <linearGradient id="monogramGradient" x1="22" y1="22" x2="146" y2="132" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#081821"/>
+      <stop offset="0.62" stop-color="#0f5f68"/>
+      <stop offset="1" stop-color="#132f3c"/>
+    </linearGradient>
+    <linearGradient id="goldGradient" x1="28" y1="28" x2="160" y2="126" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f2d18a"/>
+      <stop offset="1" stop-color="#c9a15d"/>
+    </linearGradient>
+    <filter id="logoShadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="10" stdDeviation="12" flood-color="#081821" flood-opacity="0.18"/>
+    </filter>
+  </defs>
+  <g filter="url(#logoShadow)">
+    <rect x="28" y="24" width="128" height="102" rx="26" fill="url(#monogramGradient)"/>
+    <text x="92" y="95" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="54" font-weight="800" fill="#ffffff">P</text>
+    <text x="124" y="95" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="54" font-weight="800" fill="url(#goldGradient)">B</text>
+  </g>
+  <g>
+    <text x="190" y="64" font-family="Georgia, 'Times New Roman', serif" font-size="34" font-weight="700" fill="#081821">PRABHUBOLE</text>
+    <rect x="192" y="78" width="82" height="3" rx="1.5" fill="url(#goldGradient)"/>
+    <text x="190" y="108" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="900" letter-spacing="0.8" fill="#0a4550">DBA Graner Inn</text>
+  </g>
+</svg>

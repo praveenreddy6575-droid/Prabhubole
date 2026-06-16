@@ -1,0 +1,8 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title desc">
+  <title id="title">Hospitality icon</title>
+  <desc id="desc">A hotel doorway icon in Prabhubole colors.</desc>
+  <path d="M15 54V23c0-9 7-16 16-16h2c9 0 16 7 16 16v31" fill="#ffffff" stroke="#102a43" stroke-width="4" stroke-linecap="round"/>
+  <path d="M23 54V29h18v25" fill="#e0f1ef" stroke="#147f78" stroke-width="4" stroke-linejoin="round"/>
+  <path d="M18 17c8-8 20-9 29-2" stroke="#c78a2c" stroke-width="4" stroke-linecap="round" fill="none"/>
+  <circle cx="36" cy="42" r="2.5" fill="#c78a2c"/>
+</svg>

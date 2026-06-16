@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 900" role="img" aria-labelledby="title desc">
+  <title id="title">About hero background</title>
+  <desc id="desc">Team and service connection pattern for the Prabhubole about page.</desc>
+  <rect width="1440" height="900" fill="#0b5560"/>
+  <circle cx="250" cy="240" r="150" fill="#ffffff" opacity="0.16"/>
+  <circle cx="1180" cy="660" r="210" fill="#c78a2c" opacity="0.18"/>
+  <g fill="#ffffff" opacity="0.22">
+    <circle cx="575" cy="378" r="54"/>
+    <circle cx="725" cy="378" r="54"/>
+    <circle cx="875" cy="378" r="54"/>
+  </g>
+  <path d="M410 560c145-100 280-100 405 0 85 68 180 76 285 24" fill="none" stroke="#ffffff" stroke-width="18" stroke-linecap="round" opacity="0.26"/>
+  <path d="M520 210h390" stroke="#ffffff" stroke-width="14" stroke-linecap="round" opacity="0.24"/>
+</svg>

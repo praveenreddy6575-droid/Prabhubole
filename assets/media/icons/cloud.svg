@@ -1,0 +1,7 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title desc">
+  <title id="title">Cloud icon</title>
+  <desc id="desc">A cloud operations icon in Prabhubole colors.</desc>
+  <path d="M18 43h29c7 0 12-5 12-11s-5-11-11-11h-2C43 14 37 10 30 10c-9 0-16 6-18 15C6 27 3 31 3 36c0 4 3 7 7 7h8Z" fill="#e0f1ef" stroke="#102a43" stroke-width="4" stroke-linejoin="round"/>
+  <path d="M20 33h20M20 41h12" stroke="#147f78" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="46" cy="41" r="4" fill="#c78a2c"/>
+</svg>
