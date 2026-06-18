@@ -219,6 +219,10 @@ body.page-services {
   --page-hero-bg: url("../media/images/services-bg.svg");
 }
 
+body.page-it-services {
+  --page-hero-bg: url("../media/images/services-bg.svg");
+}
+
 body.page-contact {
   --page-hero-bg: url("../media/images/contact-bg.svg");
 }
